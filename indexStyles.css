@@ -1,0 +1,13 @@
+body {
+    background-color: #fff2f2;
+    margin: 0px;
+  }
+.navbar {
+  background-color: #ffbdbd;
+  color: black;
+  padding: 15px;
+}
+#linktohome{
+  float: right;
+  color: black;
+}
